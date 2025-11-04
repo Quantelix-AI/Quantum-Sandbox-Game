@@ -348,7 +348,7 @@ npm run preview
 遇到问题？请通过以下方式反馈：
 
 - [提交Issue](https://github.com/Quantelix-AI/Quantum-Sandbox-Game/issues)
-- [加入Discord社区](https://discord.gg/your-invite)
+- [加入Discord社区](https://discord.gg/wFpx5Pwd)
 - 发送邮件至 support@github.quantelixai.com
 
 ## 📊 性能指标
@@ -386,7 +386,7 @@ npm run preview
 ## 💬 联系我们
 
 - 官网：https://quantelixai.com
-- Discord：https://discord.gg/your-invite
+- Discord：https://discord.gg/wFpx5Pwd
 - Twitter：[@QuantelixAI](https://twitter.com/QuantelixAI)
 - Email：contact@github.quantelixai.com
 
