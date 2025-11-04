@@ -5,6 +5,13 @@
 [![Matter.js](https://img.shields.io/badge/Matter.js-latest-orange)](https://brm.io/matter-js/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+    <a href="https://quantelixai.com/">
+      <img src="https://img.shields.io/badge/Powered%20by-Quantelix%20AI-purple.svg" alt="Powered by Quantelix AI">
+    </a>
+    <a href="https://nebulix.quantelix.com">
+      <img src="https://img.shields.io/badge/Enhanced%20by-Nebulix%20AI-blue.svg" alt="Enhanced by Nebulix AI">
+    </a>
+
 一个基于Web技术的2D沙盒生存游戏，采用AI驱动的NPC系统，提供独特的沉浸式游戏体验。
 
 ## ✨ 核心特性
