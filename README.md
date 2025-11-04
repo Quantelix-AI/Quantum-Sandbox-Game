@@ -241,10 +241,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/your-username/quantum-sandbox-game/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/quantum-sandbox-game/discussions)
-- 📧 **Email**: support@quantumsandbox.game
-- 🌐 **Website**: [https://quantumsandbox.game](https://quantumsandbox.game)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Quantelix-AI/Quantum-Sandbox-Game/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Quantelix-AI/Quantum-Sandbox-Game/discussions)
+- 📧 **Email**: support@github.quantelixai.com
+- 🌐 **Website**: [https://quantelixai.com](https://quantelixai.com)
 
 ---
 
