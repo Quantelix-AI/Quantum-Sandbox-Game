@@ -64,17 +64,19 @@ pnpm build
 
 ## 📖 Documentation
 
-### 📚 Getting Started
+### 🚀 Getting Started
 - [🚀 Quick Start Guide](docs/quick-start-tutorial.md) - Get up and running in 30 minutes
 - [🎯 AI Prompt Library](docs/ai-prompts-reference.md) - Comprehensive AI integration guide
-- [📖 Complete Development Guide](docs/development-guide.md) - Full technical documentation
 
-### 🛠️ Technical Documentation
+### 📖 Original Documentation (Chinese)
+- [快速入门教程](files/快速入门教程.md) - Original Chinese quick start tutorial
+- [AI提示词库-快速参考](files/AI提示词库-快速参考.md) - Original Chinese AI prompts reference
+
+### 🔗 Additional Resources
+- [📖 Complete Development Guide](docs/development-guide.md) - Full technical documentation
 - [Architecture Overview](docs/architecture.md) - System design and component interaction
 - [API Reference](docs/api-reference.md) - Complete API documentation
 - [Performance Optimization](docs/performance.md) - Optimization strategies and benchmarks
-
-### 🎮 Game Design
 - [Game Mechanics](docs/game-mechanics.md) - Core gameplay systems
 - [AI Behavior System](docs/ai-behavior.md) - NPC intelligence and decision making
 - [World Generation](docs/world-generation.md) - Procedural generation algorithms
@@ -166,11 +168,37 @@ Sophisticated combat mechanics with physics-based interactions:
 - **⚡ Vite**: Lightning-fast development and building
 - **🧪 Jest**: Comprehensive testing framework
 
-### AI Integration
-- **[Quantelix AI](https://quantelixai.com/)** <mcreference link="https://quantelixai.com/" index="0">0</mcreference>: Advanced AI reasoning and conversation generation
-- **[Nebulix AI](https://nebulix.quantelix.com)**: Specialized game AI and behavior modeling
-- **DeepSeek**: Code generation and debugging assistance
-- **Kimi**: Natural language processing for dialogue systems
+## 🤖 AI Integration
+
+This game leverages cutting-edge AI technologies to create dynamic and engaging experiences:
+
+### 🧠 **Quantelix AI** - [https://quantelixai.com/](https://quantelixai.com/)
+Advanced AI solutions for game development, providing:
+- Intelligent NPC dialogue generation
+- Dynamic quest creation
+- Procedural content generation
+- Real-time behavior adaptation
+
+### 🌌 **Nebulix AI** - [https://nebulix.quantelixai.com](https://nebulix.quantelixai.com/)
+Next-generation AI game development platform featuring:
+- Advanced world event generation
+- Sophisticated boss battle AI
+- Context-aware storytelling
+- Multi-language support
+
+### 🔗 Quick Links
+
+- **🌐 Quantelix AI**: [https://quantelixai.com/](https://quantelixai.com/) - Advanced AI solutions for game development
+- **🌌 Nebulix AI**: [https://nebulix.quantelixai.com](https://nebulix.quantelixai.com/) - Next-generation AI game development platform
+- **📖 Documentation**: See [Documentation](#-documentation) section below
+- **🚀 Getting Started**: Check out our [Quick Start Tutorial](docs/quick-start-tutorial.md)
+- **🤖 AI Integration**: Learn more about [AI features](#-ai-integration)
+
+### 🔗 **Supported AI APIs**
+- **DeepSeek**: Code generation and technical documentation
+- **Kimi**: Creative writing and narrative content
+- **OpenAI**: General-purpose AI integration
+- **Custom Models**: Flexible architecture for any AI service
 
 ### Performance Features
 - **🚀 Object Pooling**: Efficient memory management for dynamic objects

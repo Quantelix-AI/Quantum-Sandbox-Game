@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI 沙盒生存游戏</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background: #0a0a0a;
+        color: #f0f0f0;
+        font-family: "Segoe UI", "Microsoft YaHei", sans-serif;
+      }
+
+      #game-container {
+        width: 100vw;
+        height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="game-container">
+      <div style="position: absolute; top: 10px; left: 10px; z-index: 1000; color: white; font-size: 14px;">
+        页面已加载，等待游戏初始化...
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+    <script>
+      console.log("[HTML] 页面脚本开始执行");
+    </script>
+  </body>
+</html>
