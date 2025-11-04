@@ -309,18 +309,18 @@ npm run preview
 
 ## 🤖 AI 集成
 
-### 🧠 Quantelix AI — https://quantelixai.com/
+### 🧠 Quantelix AI — https://quantelixai.com
 提供高级游戏AI解决方案：
 - 智能NPC对话生成
 - 动态任务设计
 - 程序化内容生成
 - 实时行为适配
 
-### 🌌 Nebulix AI — https://nebulix.quantelixai.com
-下一代AI平台：
-- 世界事件生成
-- Boss战AI策略
-- 上下文叙事生成
+### 🌌 Nebulix QChat — https://nebulix.quantelixai.com
+下一代AI驱动的即时通讯平台：
+- 内置SUTE模式，可以随时随地的进行编程
+- 企业级通讯支持
+- 自研曲线加密通讯技术
 - 多语言支持
 
 ### 🔗 支持的 AI API
@@ -347,9 +347,9 @@ npm run preview
 
 遇到问题？请通过以下方式反馈：
 
-- [提交Issue](https://github.com/your-username/game-project/issues)
+- [提交Issue](https://github.com/Quantelix-AI/Quantum-Sandbox-Game/issues)
 - [加入Discord社区](https://discord.gg/your-invite)
-- 发送邮件至 support@yourgame.com
+- 发送邮件至 support@github.quantelixai.com
 
 ## 📊 性能指标
 
