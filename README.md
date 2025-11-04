@@ -40,7 +40,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/quantum-sandbox-game.git
+git clone https://github.com/Quantelix-AI/Quantum-Sandbox-Game.git
 cd quantum-sandbox-game
 
 # Install dependencies
@@ -182,7 +182,7 @@ Sophisticated combat mechanics with physics-based interactions:
 
 This game leverages cutting-edge AI technologies to create dynamic and engaging experiences:
 
-### 🧠 **Quantelix AI** - [https://quantelixai.com/](https://quantelixai.com/)
+### 🧠 **Quantelix AI** - [https://quantelixai.com](https://quantelixai.com/)
 Advanced AI solutions for game development, providing:
 - Intelligent NPC dialogue generation
 - Dynamic quest creation
@@ -198,7 +198,7 @@ Next-generation AI game development platform featuring:
 
 ### 🔗 Quick Links
 
-- **🌐 Quantelix AI**: [https://quantelixai.com/](https://quantelixai.com/) - Advanced AI solutions for game development
+- **🌐 Quantelix AI**: [https://quantelixai.com](https://quantelixai.com/) - Advanced AI solutions for game development
 - **🌌 Nebulix AI**: [https://nebulix.quantelixai.com](https://nebulix.quantelixai.com/) - Next-generation AI game development platform
 - **📖 Documentation**: See [Documentation](#-documentation) section below
 - **🚀 Getting Started**: Check out our [Quick Start Tutorial](docs/quick-start-tutorial.md)
