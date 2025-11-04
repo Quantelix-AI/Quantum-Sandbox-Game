@@ -56,7 +56,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/game-project.git
+git clone https://github.com/Quantelix-AI/Quantum-Sandbox-Game.git
 cd game-project
 
 # 安装依赖
