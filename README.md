@@ -72,14 +72,24 @@ pnpm build
 - [快速入门教程](files/快速入门教程.md) - Original Chinese quick start tutorial
 - [AI提示词库-快速参考](files/AI提示词库-快速参考.md) - Original Chinese AI prompts reference
 
-### 🔗 Additional Resources
-- [📖 Complete Development Guide](docs/development-guide.md) - Full technical documentation
-- [Architecture Overview](docs/architecture.md) - System design and component interaction
-- [API Reference](docs/api-reference.md) - Complete API documentation
-- [Performance Optimization](docs/performance.md) - Optimization strategies and benchmarks
-- [Game Mechanics](docs/game-mechanics.md) - Core gameplay systems
-- [AI Behavior System](docs/ai-behavior.md) - NPC intelligence and decision making
-- [World Generation](docs/world-generation.md) - Procedural generation algorithms
+### 🔗 Complete Technical Documentation
+- **[📖 Technical Documentation Index](docs/index.md)** - Complete documentation overview and navigation
+- **[🚀 Complete Development Guide](docs/development-guide.md)** - Full technical development guide
+- **[🏗️ Architecture Overview](docs/architecture.md)** - System design and component interaction
+- **[📚 API Reference](docs/api-reference.md)** - Complete API documentation with examples
+- **[⚡ Performance Optimization](docs/performance.md)** - Optimization strategies and benchmarks
+- **[🎮 Game Mechanics](docs/game-mechanics.md)** - Core gameplay systems and mechanics
+- **[🤖 AI Behavior System](docs/ai-behavior.md)** - Advanced NPC intelligence and decision making
+- **[🌍 World Generation](docs/world-generation.md)** - Procedural generation algorithms
+
+### 🌏 Chinese Documentation (中文文档)
+- **[中文开发指南](docs/development-guide-zh.md)** - 中文版开发指南
+- **[中文架构概述](docs/architecture-zh.md)** - 中文版架构文档
+- **[中文API参考](docs/api-reference-zh.md)** - 中文版API文档
+- **[中文性能优化](docs/performance-zh.md)** - 中文版性能优化指南
+- **[中文游戏机制](docs/game-mechanics-zh.md)** - 中文版游戏机制文档
+- **[中文AI行为系统](docs/ai-behavior-zh.md)** - 中文版AI行为系统文档
+- **[中文世界生成](docs/world-generation-zh.md)** - 中文版世界生成文档
 
 ## 🏗️ Project Structure
 
